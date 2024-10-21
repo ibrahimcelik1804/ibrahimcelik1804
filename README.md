@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, ben İbrahim ÇELİK</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön yüz geliştiricisi</h3>
+<h1 align="">Merhaba 👋, ben İbrahim ÇELİK</h1>
+<h3 align="">Türkiye'den tutkulu bir ön yüz geliştiricisi</h3>
 
 - 🔭 I develop projects with React and Javascript.
 - 🌱 I want to improve myself in React Native and Backend.
