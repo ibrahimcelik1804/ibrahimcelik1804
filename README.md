@@ -3,6 +3,7 @@
 
 - 🔭 I develop projects with React and Javascript.
 - 🌱 I want to improve myself in React Native and Backend.
+- 🌟 Learning something new every day is my passion.
 - 📫 You can reach me here... **ibrahimcelik1804@gmail.com**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
