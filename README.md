@@ -8,7 +8,7 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ibrahimçelik74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ibrahimçelik74" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ibrahimçelik74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim%C3%A7elik74/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
