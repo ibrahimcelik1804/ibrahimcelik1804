@@ -1,10 +1,14 @@
 <h1 align="">Hello 👋, I am İbrahim ÇELİK</h1>
-<h3 align="">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I develop projects with React and Javascript.
-- 🌱 I want to improve myself in React Native and Backend.
-- 🌟 Learning something new every day is my passion.
-- 📫 You can reach me here... **ibrahimcelik1804@gmail.com**
+🔭 I am currently working actively in the software industry.
+🔮 I develop projects using React, JavaScript, and React Native.
+🛠️ In my React Native projects, I use technologies like Redux Toolkit, Formik, Yup, SQLite, and Firebase.
+🎨 I design clean and user-friendly mobile interfaces with a strong focus on UI/UX.
+🚀 I’m especially focused on improving my skills in Backend development.
+🤭 I enjoy learning new technologies and integrating them into my projects.
+
+📫 You can reach me at: **ibrahimcelik1804@gmail.com**
+🤝 Feel free to get in touch!
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
@@ -22,4 +26,16 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40""/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<!-- TypeScript logosunu tıklanabilir olarak gösteren yapı -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+    alt="TypeScript" 
+    width="40" 
+    height="40" 
+    style="margin-right: 8px;"
+  />
+  <span style="font-family: sans-serif; font-size: 14px; color: #3178c6;">TypeScript</span>
+</a>ß
+</p>
